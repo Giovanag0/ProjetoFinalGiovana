@@ -1,6 +1,6 @@
 # ProjetoFinalGiovana
 
-[Link do meu projeto fodástico](https://giovanag0.github.io/ProjetoFinalGiovana/)
+[Link do meu projeto final](https://giovanag0.github.io/ProjetoFinalGiovana/)
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.27.
 
